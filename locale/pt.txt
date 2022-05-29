@@ -1,0 +1,52 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PROJETO - BARBER WILLIANS 
+
+## Skin
+
+### Button
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = WhatsApp
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = WhatsApp
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = Nossa Localização
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = Nossa Localização
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360.label = Instagram
+Button_1FE4B611_0C0A_256F_418E_EA27E66F8360_mobile.label = Instagram
+
+## Media
+
+### Subtitle
+panorama_02E76356_08E4_0F89_419B_2748837E0923.subtitle = MEIO 1
+
+### Title
+panorama_02E0214C_08E4_0B99_4177_C4846DEE6DBE.label = ENTRADA 01
+panorama_02E6C9EE_08E5_FA96_4178_B8C41CCB1D48.label = FINAL 1
+panorama_02E76356_08E4_0F89_419B_2748837E0923.label = MEIO 1
+panorama_02E7CB9D_08E4_3EBB_4187_3DA0313B4F84.label = MEIO 2
+panorama_0472767B_08E4_167E_4170_67A3DEFE7D1B.label = AEREA 
+panorama_1A5E68FD_09A4_3A7B_418C_BF62D550A70A.label = RECEPÇÃO
+panorama_1EF7CB62_09AC_1F8E_417D_8FB96C3F1706.label = FINAL 2
+video_187435A9_0D74_9780_419D_E4C64A2753DF.label = Editado
+video_1F0C13BA_0D54_9383_4199_95ADA0E74763.label = HUNGRIA HIP HOP - EL BRABO LEGACY
+video_1F312E29_0D3B_B481_4182_47C190E31FA3.label = A trajetória da Wilians Barbers se iniciou em 19 de agosto_2017 e tem obtido êxito desde então. O sentimento é de gratidão,por tudo que temos vivido nesses anos, até chegar aqui. E virão muito mais coisas! Essa é nossa c
+
+## Popup
+
+### Body
+htmlText_197378A5_0D5D_FD80_41A2_8FD937C60D78.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_197F8A38_0D55_BC8F_419B_0A696B4D62E8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_1ED380DD_0D54_ED80_419E_1F5C47C4E7D4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_148C811C_0D74_AC87_41AA_33421A2F34A7.source = https://api.whatsapp.com/send?phone=5562984483369&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20agendamentos.
+LinkBehaviour_148D811E_0D74_AC83_419C_FC9235C2ED66.source = https://www.google.com/search?q=barber%20willians&rlz=1C1GCEA_enBR872BR872&sxsrf=ALiCzsbiNqWEhqs6uxDZgGuT2hO2HW_U_w:1653789920403&ei=ddSSYpj2CMnM5OUPoMCpqAY&ved=2ahUKEwiPlvTFz4P4AhU0pZUCHUHLA5UQvS56BAgIEAE&uact=5&oq=barber+willians&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBM6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6CwguEIAEELEDEIMBOgsIABCABBCxAxCDAToFCAAQgAQ6BQguEIAEOggILhCxAxCDAToICAAQgAQQsQM6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoLCC4QgAQQxwEQ0QM6CAguEIAEENQCOgsILhCSAxDHARCvAToICAAQgAQQyQM6BQgAEJIDOggIABCxAxCDAToECAAQCjoLCC4QgAQQxwEQrwE6BAguEAo6BAguEA06BggAEB4QDUoECEEYAEoECEYYAFDqBljdIWDXImgEcAF4AIAB0AGIAd8SkgEGMC4xNC4xmAEAoAEByAEEwAEB&sclient=gws-wiz&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1&tbm=lcl&rflfq=1&num=10&rldimm=12881118923679957327&lqi=Cg9iYXJiZXIgd2lsbGlhbnNaESIPYmFyYmVyIHdpbGxpYW5zkgELYmFyYmVyX3Nob3CqARcQASoTIg9iYXJiZXIgd2lsbGlhbnMoDA&sa=X&rlst=f#rlfi=hd:;si:12881118923679957327,l,Cg9iYXJiZXIgd2lsbGlhbnNaESIPYmFyYmVyIHdpbGxpYW5zkgELYmFyYmVyX3Nob3CqARcQASoTIg9iYXJiZXIgd2lsbGlhbnMoDA;mv:[[-16.6441578,-49.2382118],[-16.817067299999998,-49.376177]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1
+LinkBehaviour_148E211F_0D74_AC81_419C_6C3CFF130EBE.source = https://www.instagram.com/wilians_barbers/
+LinkBehaviour_1863F4C2_0DEC_7583_4191_E3ADA855E091.source = https://api.whatsapp.com/send?phone=5562984483369&text=Ol%C3%A1%2C%20vim%20l%C3%A1%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20agendamentos.
+LinkBehaviour_1A534AB8_0DDF_FD8F_41AB_451CF5703156.source = https://www.instagram.com/wilians_barbers/
+LinkBehaviour_1BE41209_0DF7_EC81_419E_4075AD1EA671.source = https://www.google.com/search?q=barber%20willians&rlz=1C1GCEA_enBR872BR872&sxsrf=ALiCzsbiNqWEhqs6uxDZgGuT2hO2HW_U_w:1653789920403&ei=ddSSYpj2CMnM5OUPoMCpqAY&ved=2ahUKEwiPlvTFz4P4AhU0pZUCHUHLA5UQvS56BAgIEAE&uact=5&oq=barber+willians&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBMyBAgAEBM6BwgAEEcQsAM6BwgAELADEEM6BAgjECc6CwguEIAEELEDEIMBOgsIABCABBCxAxCDAToFCAAQgAQ6BQguEIAEOggILhCxAxCDAToICAAQgAQQsQM6CAguEIAEELEDOg4ILhCABBCxAxDHARCjAjoLCC4QgAQQxwEQ0QM6CAguEIAEENQCOgsILhCSAxDHARCvAToICAAQgAQQyQM6BQgAEJIDOggIABCxAxCDAToECAAQCjoLCC4QgAQQxwEQrwE6BAguEAo6BAguEA06BggAEB4QDUoECEEYAEoECEYYAFDqBljdIWDXImgEcAF4AIAB0AGIAd8SkgEGMC4xNC4xmAEAoAEByAEEwAEB&sclient=gws-wiz&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1&tbm=lcl&rflfq=1&num=10&rldimm=12881118923679957327&lqi=Cg9iYXJiZXIgd2lsbGlhbnNaESIPYmFyYmVyIHdpbGxpYW5zkgELYmFyYmVyX3Nob3CqARcQASoTIg9iYXJiZXIgd2lsbGlhbnMoDA&sa=X&rlst=f#rlfi=hd:;si:12881118923679957327,l,Cg9iYXJiZXIgd2lsbGlhbnNaESIPYmFyYmVyIHdpbGxpYW5zkgELYmFyYmVyX3Nob3CqARcQASoTIg9iYXJiZXIgd2lsbGlhbnMoDA;mv:[[-16.6441578,-49.2382118],[-16.817067299999998,-49.376177]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1
