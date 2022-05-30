@@ -4,3 +4,9 @@
    font-weight: normal;
    font-style: normal;
 }
+@font-face {
+   font-family: "Script MT Bold";
+   src: url("fonts/Script MT Bold.woff") format("woff"), url("fonts/Script MT Bold.eot") format("embedded-opentype"), url("fonts/Script MT Bold.TTF") format("truetype"), url("fonts/Script MT Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
